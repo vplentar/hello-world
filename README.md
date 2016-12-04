@@ -1,3 +1,3 @@
 # hello-world
 the famous starter code
-A little blsh blah for testing
+A little blah blah for testing
